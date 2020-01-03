@@ -1,0 +1,14 @@
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\bin\Release\netcoreapp2.2\studentslogbookAPI.deps.json
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\bin\Release\netcoreapp2.2\studentslogbookAPI.runtimeconfig.json
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\bin\Release\netcoreapp2.2\studentslogbookAPI.runtimeconfig.dev.json
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\bin\Release\netcoreapp2.2\studentslogbookAPI.dll
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\bin\Release\netcoreapp2.2\studentslogbookAPI.pdb
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.csprojAssemblyReference.cache
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.csproj.CoreCompileInputs.cache
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.RazorAssemblyInfo.cache
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.RazorAssemblyInfo.cs
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.AssemblyInfoInputs.cache
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.AssemblyInfo.cs
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.RazorTargetAssemblyInfo.cache
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.dll
+C:\studentslogbookApi\studentslogbookAPI\studentslogbookAPI\obj\Release\netcoreapp2.2\studentslogbookAPI.pdb
